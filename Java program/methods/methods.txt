@@ -1,0 +1,11 @@
+method description:
+
+
+nextBoolean()=reads a boolean value from the user
+nextByte()=reads a byte value from the user
+nextDouble()=reads a double value from the user
+nextFloat()=reads a float value from the user
+nextInt()=reads a int value from the user
+nextLine()=reads a string value from the user
+nextlong()=reads a long value from the user
+nextShort()=reads a short value from the user

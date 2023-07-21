@@ -1,0 +1,13 @@
+import java.util.*;
+class number
+{
+public static void main(String[]args)
+{
+int n;
+System.out.println(n);
+if(1<=n<=10^8)
+{
+System.out.println(" ");
+}
+}
+}
