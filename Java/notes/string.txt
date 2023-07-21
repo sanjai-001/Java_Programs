@@ -1,0 +1,10 @@
+srring using array
+
+string declaration:
+      1. character using array            char name[10]
+
+sring syntax:
+      char variable_name[size];
+
+
+                        string initialization:           char name[10]={1,2,3,4,5,6}

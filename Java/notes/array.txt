@@ -1,0 +1,85 @@
+
+data vanganum
+char collect pannanum
+systematic way of arrangement
+
+
+data structure
+
+two types          1. static - 
+                   2. dynamic - given any datatype
+ 
+
+
+array types
+
+1 dimentional - bank chellon
+2 dimentional - ticket booking 
+
+
+
+array kudutha for loop irukum        printfku forloop   scanfku forloop
+inputku forloop
+outputku forloop
+
+
+
+
+
+
+
+
+
+
+                            array syntax --- datatype   dataname(array size)
+
+
+array index value ----initial ah 0            why index zero                                            array index calculation= base address+(array index*sizeof(datatype))
+  
+
+
+
+
+
+
+initialization
+
+arr[5]
+arr[]
+print scanf
+remaining arrays are 0
+
+
+
+
+int arr[10]={0}                                            why noy int arr[10]={}; itha eduthukathu
+
+
+
+
+
+
+
+
+
+
+
+                                    one dimentional 1 forloop use panuvom
+
+array la decimal varathu  negative varathu
+
+
+
+
+
+
+
+                                       two dimentional    2 forloop use panuvom
+syntax
+
+datatype  name of array [x][y]     x means rows     y means columns                     eg    int arr[4][5]->          size of arr[4][5]=4*5=20 elements 
+                                                                                                                                        =20*4=80 bytes
+
+
+
+initialization       int arr[2][3]={1, 

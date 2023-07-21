@@ -1,0 +1,8 @@
+syntax
+return_type function_name(set of inputs):           
+
+
+
+
+
+area and circumfrence of the circle by using call by value

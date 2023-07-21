@@ -1,0 +1,45 @@
+int array3[n] [m];
+    printf("\n two dimentional sum:");
+    for(i=0;i<n;i++)
+    {
+        for(j=0;j<m;j++)
+        {
+            array3[i] [j] = array1[i] [j] + array2[i] [j];
+            printf(" %d",array3[i] [j]);
+        }
+    }
+    return 0;
+}
+
+
+
+
+
+int array3[n] [m];
+    printf("\n two dimentional sum:");
+    for(i=0;i<n;i++)
+    {
+        for(j=0;j<m;j++)
+        {
+            array3[i] [j] = array1[i] [j] - array2[i] [j];
+            printf(" %d",array3[i] [j]);
+        }
+    }
+    return 0;
+}
+
+
+
+
+
+printf("The product of the two matrices is:\n");
+      for(i=0;i<m;i++){          
+            for(j=0;j<q;j++){
+                printf("%d\t",mult[i][j]);
+            }
+            printf("\n");
+        }
+    }
+
+    return 0;
+}

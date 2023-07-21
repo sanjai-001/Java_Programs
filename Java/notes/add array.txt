@@ -1,0 +1,12 @@
+int array3[n] [m];
+    printf("\n two dimentional sum:");
+    for(i=0;i<n;i++)
+    {
+        for(j=0;j<m;j++)
+        {
+            array3[i] [j] = array1[i] [j] + array2[i] [j];
+            printf(" %d",array3[i] [j]);
+        }
+    }
+    return 0;
+}

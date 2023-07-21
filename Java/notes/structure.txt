@@ -1,0 +1,13 @@
+syntax:
+       typedef existing_data_type new_data_type
+
+
+eg:
+        
+#include<stdio.h>
+typedef int integer;
+int main(){
+integer var=100;
+printf("%d",var);
+return 0;
+}
